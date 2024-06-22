@@ -21,3 +21,13 @@
 .verification-container h5 {
   margin-bottom: 20px;
 }
+.card:hover{
+  transform: translateY(10px);
+    transition: transform 0.3s ease;
+}
+.image{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("https://png.pngtree.com/background/20210711/original/pngtree-simple-fluid-gradient-business-office-background-picture-image_1079863.jpg");
+}
